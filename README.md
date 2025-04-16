@@ -1,4 +1,4 @@
-An experiment aiming to be build similarily to (https://github.com/Moxibyte/MoxPP), but using Bazel
+An experiment aiming to be build similarly to (https://github.com/Moxibyte/MoxPP), but using Bazel
 
 ## Prerequisites
 
