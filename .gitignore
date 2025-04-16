@@ -69,4 +69,5 @@ deactivate_conanrun*
 # Bazel files
 bazel-*
 conan
+!conan/conanfile.*
 MODULE.bazel.lock
