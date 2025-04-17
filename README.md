@@ -5,6 +5,10 @@ An experiment aiming to be build similarly to (https://github.com/Moxibyte/MoxPP
 - Install Conan (https://docs.conan.io/2/installation.html)
 - Install Bazel (https://bazel.build/install)
 - Clone the repository
+- Iitialize Conan building profile
+
+        conan profile detect --force
+
 - Install all the dependencies
 
         conan install . --build=missing
